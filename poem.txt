@@ -1,4 +1,5 @@
 red
 blue
+green
 yellow
 that's a rainbow
